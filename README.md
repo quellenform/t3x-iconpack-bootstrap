@@ -1,3 +1,6 @@
+[![TYPO3](https://img.shields.io/badge/TYPO3-iconpack-%23f49700?style=for-the-badge)](https://extensions.typo3.org/extension/iconpack/)
+[![Latest Stable Version](https://img.shields.io/packagist/v/quellenform/t3x-iconpack-bootstrap?style=for-the-badge)](https://packagist.org/packages/quellenform/t3x-iconpack-bootstrap)
+
 # Bootstrap Icons for TYPO3
 
 TYPO3 CMS Extension "iconpack_bootstrap"
@@ -21,12 +24,12 @@ You can choose between *Bootstrap Glyphicons* and the new *Bootstrap Icons*.
 
 This extension contains an icon set of another author. Please note the license terms and conditions for the use of the icon set.
 
-| Name | *Bootstrap Icons* |
-|:--|:--|
-| Type | SVG, SVG-Sprite, Webfont |
-| Version | *1.10.2* |
-| Source | https://icons.getbootstrap.com/ |
+| Name    | *Bootstrap Icons*                          |
+| :------ | :----------------------------------------- |
+| Type    | SVG, SVG-Sprite, Webfont                   |
+| Version | *1.10.2*                                   |
+| Source  | https://icons.getbootstrap.com/            |
 | License | [MIT](https://opensource.org/licenses/MIT) |
-| Author | [@mdo](https://github.com/mdo) |
+| Author  | [@mdo](https://github.com/mdo)             |
 
 *All brand icons are copyright/trademarks of their respective owners.*
