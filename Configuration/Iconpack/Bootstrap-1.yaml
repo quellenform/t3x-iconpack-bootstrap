@@ -1,0 +1,32 @@
+iconpack:
+  title: "Bootstrap Icons"
+  key: "bi1"
+  version: 1.10.2
+  url: "https://icons.getbootstrap.com/"
+
+  renderTypes:
+    webfont:
+      css: "EXT:iconpack_bootstrap/Resources/Public/Vendor/icons-1.10.2/font/bootstrap-icons.css"
+      prefix: "bi-"
+      attributes:
+        aria-hidden: "true"
+        role: "img"
+
+    svg:
+      source: "EXT:iconpack_bootstrap/Resources/Public/Vendor/icons-1.10.2/icons/"
+      attributes:
+        class: "bi"
+
+    svgSprite:
+      source: "EXT:iconpack_bootstrap/Resources/Public/Vendor/icons-1.10.2/bootstrap-icons.svg"
+      attributes:
+        class: "bi"
+        fill: "currentColor"
+
+    svgInline:
+      source: "EXT:iconpack_bootstrap/Resources/Public/Vendor/icons-1.10.2/icons/"
+      attributes:
+        class: "bi"
+        fill: "currentColor"
+
+  icons: "EXT:iconpack_bootstrap/Resources/Public/Vendor/icons-1.10.2/font/bootstrap-icons.json"
