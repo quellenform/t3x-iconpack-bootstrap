@@ -10,8 +10,6 @@ TYPO3 CMS Extension "iconpack_bootstrap"
 
 This Extension registers an Iconpack-Provider for `EXT:iconpack` which allows you to use the [Bootstrap Icons](https://icons.getbootstrap.com/) in TYPO3.
 
-You can choose between *Bootstrap Glyphicons* and the new *Bootstrap Icons*.
-
 
 ## Installation/Configuration
 
