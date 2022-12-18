@@ -5,6 +5,7 @@ iconpack:
   url: "https://icons.getbootstrap.com/"
 
   renderTypes:
+
     webfont:
       css: "EXT:iconpack_bootstrap/Resources/Public/Vendor/icons-1.10.2/font/bootstrap-icons.css"
       prefix: "bi-"
@@ -14,8 +15,7 @@ iconpack:
 
     svg:
       source: "EXT:iconpack_bootstrap/Resources/Public/Vendor/icons-1.10.2/icons/"
-      attributes:
-        class: "bi"
+      prefix: "bi-"
 
     svgSprite:
       source: "EXT:iconpack_bootstrap/Resources/Public/Vendor/icons-1.10.2/bootstrap-icons.svg"
@@ -27,6 +27,5 @@ iconpack:
       source: "EXT:iconpack_bootstrap/Resources/Public/Vendor/icons-1.10.2/icons/"
       attributes:
         class: "bi"
-        fill: "currentColor"
 
   icons: "EXT:iconpack_bootstrap/Resources/Public/Vendor/icons-1.10.2/font/bootstrap-icons.json"
