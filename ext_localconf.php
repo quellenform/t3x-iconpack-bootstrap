@@ -1,6 +1,6 @@
 <?php
 
-defined('TYPO3') or die();
+defined('TYPO3') || die();
 
 if (\TYPO3\CMS\Core\Utility\ExtensionManagementUtility::isLoaded('iconpack')) {
     $extConf = \TYPO3\CMS\Core\Utility\GeneralUtility::makeInstance(
