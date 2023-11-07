@@ -25,7 +25,7 @@ This extension contains an icon set of another author. Please note the license t
 | Name    | *Bootstrap Icons*                          |
 | :------ | :----------------------------------------- |
 | Type    | SVG, SVG-Sprite, Webfont                   |
-| Version | *1.11.0*                                   |
+| Version | *1.11.1*                                   |
 | Source  | https://icons.getbootstrap.com/            |
 | License | [MIT](https://opensource.org/licenses/MIT) |
 | Author  | [@mdo](https://github.com/mdo)             |
