@@ -1,4 +1,4 @@
 # cat=basic/1; type=string; label=LLL:EXT:iconpack/Resources/Private/Language/locallang_be.xlf:extConf.configFile
 configFile =
-# cat=basic/2; type=options[Bootstrap Icons 1.11.1=1]; label=Version
+# cat=basic/2; type=options[Bootstrap Icons 1.11.3=1]; label=Version
 version = 1
