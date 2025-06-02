@@ -16,13 +16,12 @@ iconpack:
 
     svgSprite:
       source: "EXT:iconpack_bootstrap/Resources/Public/Vendor/icons-1.11.3/bootstrap-icons.svg"
+      prefix: "bi-"
       attributes:
-        class: "bi"
         fill: "currentColor"
 
     svgInline:
       source: "EXT:iconpack_bootstrap/Resources/Public/Vendor/icons-1.11.3/icons/"
-      attributes:
-        class: "bi"
+      prefix: "bi-"
 
   icons: "EXT:iconpack_bootstrap/Resources/Public/Vendor/icons-1.11.3/font/bootstrap-icons.json"
