@@ -9,9 +9,6 @@ iconpack:
     webfont:
       css: "EXT:iconpack_bootstrap/Resources/Public/Vendor/icons-1.11.3/font/bootstrap-icons.css"
       prefix: "bi-"
-      attributes:
-        aria-hidden: "true"
-        role: "img"
 
     svg:
       source: "EXT:iconpack_bootstrap/Resources/Public/Vendor/icons-1.11.3/icons/"
